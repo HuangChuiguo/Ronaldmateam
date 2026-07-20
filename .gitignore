@@ -1,0 +1,17 @@
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Never commit local data, credentials or generated outputs.
+data/
+raw_data/
+restricted_data/
+credentials/
+secrets/
+outputs/
+results/
